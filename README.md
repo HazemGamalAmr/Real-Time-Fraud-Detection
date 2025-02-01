@@ -66,7 +66,7 @@ Key Components
 
 
 Team Members:
-- Hazem Amr ( hazemramr@gmail.com )
+- Hazem Gamal ( hazemramr@gmail.com )
 - Sheref Hamdy ( sherefhamdy10@gmail.com )
 - Abdelrahman Mahmoud ( a.mahmoud1803@gmail.com )
 - Ahmed Magdy ( ahmed.magdyhtc@gmail.com )
